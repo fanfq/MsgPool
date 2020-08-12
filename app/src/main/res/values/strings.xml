@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MsgPool</string>
+
+    <string name="userfeedback">用户反馈</string>
+    <string name="send">发送</string>
+    <string name="user_mail_addres">方便作者与您取得联系，请在此留下您的邮箱地址！</string>
+    <string name="user_feedback_content">在这里输入反馈信息,我相信会有一针见血的评论。\n\n您也可以发邮件至: \n<u>fangqing.fan@hotmail.com</u> \n\n或者关注我的新浪微博:\n<u>@键盘动物CodeMonkey</u>\n\n再次感谢您的热心建议！</string>
+    <string name="smtp">smtp.126.com</string>
+    <string name="port">25</string>
+    <string name="pop">pop.126.com</string>
+    <string name="imap">imap.126.com</string>
+    <string name="account">appfeedback@126.com</string>
+    <string name="pwd">xxx</string>
+    <string name="mail_subject">GPS TOOLS FEEDBACK</string>
+    <string name="mailto">fangqing.fan@hotmail.com</string>
+    <string name="scuess">邮件发送成功,感谢您的支持！</string>
+    <string name="fail">邮件发送失败,请检查网络是否畅通,或以其他途径联系作者，感谢您的支持！</string>
+
+    <string name="msgpool_settings">Settings</string>
+    <string name="livewallpaper_model_title">Select Model</string>
+    <string name="livewallpaper_model_summary">Choose which model to play</string>
+    <string name="livewallpaper_block_title">Select Block style</string>
+    <string name="livewallpaper_block_summary">Choose which block to display</string>
+    <string name="livewallpaper_movement_title">Motion</string>
+    <string name="livewallpaper_movement_summary">Choose the block movement direction</string>
+    <string name="livewallpaper_effect_title">Effect</string>
+    <string name="livewallpaper_effect_summary">Apply effect pattern</string>
+
+    <string name="version_title">Version</string>
+    <string name="version_summary">version 1.1</string>
+    <string name="contact_title">Contact</string>
+    <string name="contact_summary">Any questions please let me know, Fred,Fan Fangqing (fangqing.fan@hotmail.com)</string>
+
+
+    </resources>
