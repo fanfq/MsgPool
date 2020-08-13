@@ -34,15 +34,15 @@ public class SendMail {
 
 ### 编译打包安卓并设置权限
 
-[!pre](https://github.com/fanfq/MsgPool/blob/master/1.png)
+![pre](https://github.com/fanfq/MsgPool/blob/master/1.png)
 
 ### 手动配置接收邮件的
 
-[!pre](https://github.com/fanfq/MsgPool/blob/master/2.png)
+![pre](https://github.com/fanfq/MsgPool/blob/master/2.png)
 
 ### 测试
 
-[!pre](https://github.com/fanfq/MsgPool/blob/master/3.png)
+![pre](https://github.com/fanfq/MsgPool/blob/master/3.png)
 
 这里开了自启动，所以每次手机重启都会收到邮件的推送。
 
